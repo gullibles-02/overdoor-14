@@ -1,10 +1,16 @@
 {
-  "name": "mu91deerFD9XNGXJqkxFZbiL4tOaV0ZrbslTRPVHDExFxZo3IB",
+  "name": "หวยสด 888 ทำไมถึงนิยม - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "หวยสด 888 หมายเหตุ และ หวยสด 888 ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตามกฎหมาย",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": ["หวยสด 888","หวยสด","888","หวยสด Thailotto","888 Thailotto"],
+  "keywords": [
+    "หวยสด 888",
+    "หวยสด",
+    "888",
+    "หวยสด Thailotto",
+    "888 Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
