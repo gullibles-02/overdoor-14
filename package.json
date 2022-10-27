@@ -1,10 +1,13 @@
 {
-  "name": "czGBAzylDjp92pP4Ow2Cu8Yv15f2o8Bucv77nrLcBSn1mkGtEh",
+  "name": "หุ้นจีนบ่ายออกกี่โมง สมัครยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.25",
   "description": "หุ้นจีนบ่ายออกกี่โมง บนเด่น แด่ หุ้นจีนบ่ายออกกี่โมง ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง 01 ชุดเลข 3 ตัว และ 2 ตัว ดังนี้901-910-109-190-019-091406-46",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": ["หุ้นจีนบ่ายออกกี่โมง","หุ้นจีนบ่ายออกกี่โมง Thailotto"],
+  "keywords": [
+    "หุ้นจีนบ่ายออกกี่โมง",
+    "หุ้นจีนบ่ายออกกี่โมง Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
