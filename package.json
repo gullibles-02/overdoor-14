@@ -1,13 +1,10 @@
 {
-  "name": "chudjenbet สรุปว่าอะไร - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "H5wnZAddEXwpA9D6W1YbTbz5LMLF69jxtfpNv0CcAb5vemtrG7",
   "theme": "syntax",
   "version": "1.0.31",
   "description": "CHUDJENBET หมายเหตุ โดย CHUDJENBET ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตามกฎห",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": [
-    "CHUDJENBET",
-    "CHUDJENBET Huay Happy"
-  ],
+  "keywords": ["CHUDJENBET","CHUDJENBET Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
