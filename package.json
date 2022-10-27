@@ -1,10 +1,13 @@
 {
-  "name": "9aX88jiehJDqurcb2IgbuXrczui93d60QDqgXAgnYOmusa48KL",
+  "name": "สถิติยี่กีย้อนหลัง เล่นยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.50",
   "description": "สถิติยี่กีย้อนหลัง ซึ่งในหุ้นต่างๆนั้น ได้แก่ สถิติยี่กีย้อนหลัง ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง ก็จะมีวิธีการออกผล แตกต่างกันไป แต่ส่วนมากก็อ้าง",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": ["สถิติยี่กีย้อนหลัง","สถิติยี่กีย้อนหลัง Huay Happy"],
+  "keywords": [
+    "สถิติยี่กีย้อนหลัง",
+    "สถิติยี่กีย้อนหลัง Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
