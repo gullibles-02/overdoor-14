@@ -1,10 +1,13 @@
 {
-  "name": "kqGBbshMD8T522YDCoBJovwbduPZtNEkHytPR1ZFdk6dsnTjOF",
+  "name": "ตลาดหุ้นสหรัฐเปิดกี่โมง มีคำตอบ - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.63",
   "description": "ตลาดหุ้นสหรัฐเปิดกี่โมง 25-5229-9272-2775-5795-59หากคอหวยชื่นชอบเลขชุดใด ต่อ ตลาดหุ้นสหรัฐเปิดกี่โมง ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง สามารถนำไปพิจารณา",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": ["ตลาดหุ้นสหรัฐเปิดกี่โมง","ตลาดหุ้นสหรัฐเปิดกี่โมง Lotto"],
+  "keywords": [
+    "ตลาดหุ้นสหรัฐเปิดกี่โมง",
+    "ตลาดหุ้นสหรัฐเปิดกี่โมง Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
