@@ -1,10 +1,13 @@
 {
-  "name": "vXM4IvP7DXhcdYTh913xHosmXfOwrxgkA9210e4Y3a46e2I0Ji",
+  "name": "หวยหุ้นอินเดีย ดูที่ไหน - เว็บใหม่ huay999 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "หวยหุ้นอินเดีย หมายเหตุ แม้ หวยหุ้นอินเดีย ที่ Huay999 เว็บหวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องต",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": ["หวยหุ้นอินเดีย","หวยหุ้นอินเดีย Huay999"],
+  "keywords": [
+    "หวยหุ้นอินเดีย",
+    "หวยหุ้นอินเดีย Huay999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
