@@ -1,10 +1,13 @@
 {
-  "name": "66qMZI7tOagRGX4hqHNbiIcfMftSFXH6bgYZc2rlgd8yxB5Pt1",
+  "name": "วิเคราะห์หุ้นเกาหลีวันนี้ ได้อย่างไร - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.62",
   "description": "วิเคราะห์หุ้นเกาหลีวันนี้ หวยหุ้นอังกฤษ ได้แก่ วิเคราะห์หุ้นเกาหลีวันนี้ ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง หรือ หวยอังกฤษ เป็นหวยที่ใช้ผลการปิดตลาดของ",
   "repository": "https://github.com/gullibles-02/overdoor-14",
-  "keywords": ["วิเคราะห์หุ้นเกาหลีวันนี้","วิเคราะห์หุ้นเกาหลีวันนี้ Huaysod"],
+  "keywords": [
+    "วิเคราะห์หุ้นเกาหลีวันนี้",
+    "วิเคราะห์หุ้นเกาหลีวันนี้ Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
